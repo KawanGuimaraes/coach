@@ -1,0 +1,8 @@
+Ilustrações de exercícios: Everkinetic (https://github.com/everkinetic/data)
+Licença: Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0)
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Os arquivos foram renomeados para o id do exercício no app ({id}-1 = posição inicial,
+{id}-2 = posição final). Os .webp vieram dos PNG de src/images-web do repositório original
+e só foram convertidos de formato. Os desenhos não foram alterados.
+Estas imagens continuam sob CC BY-SA 4.0, separadas da licença do restante do app.
